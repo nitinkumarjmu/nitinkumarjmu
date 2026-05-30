@@ -1,37 +1,58 @@
-# Hi, I'm Nitin Kumar 👋
+# Nitin Kumar
 
-🎓 B.E. Computer Science & Engineering @ Chandigarh University
+Java Full-Stack Developer | System Design Enthusiast | Computer Science Student
 
-💻 Aspiring Java Full-Stack Developer
+I enjoy building systems that solve real problems—from real-time communication platforms to recommendation engines and multiplayer applications.
+
+### Current Focus
+
+* Backend Engineering
+* Distributed Systems
+* Real-Time Applications
+* Cloud & DevOps
 
 ### Tech Stack
-- Java
-- Spring Boot
-- React
-- PostgreSQL
-- MySQL
-- AWS
-- Docker
-- Git/GitHub
 
-### Projects
-♟️ Chess Platform
-- Real-time multiplayer chess application
-- React, Spring Boot, PostgreSQL, WebSocket
+**Backend**
+Java • Spring Boot • REST APIs • WebSocket • Netty
 
-💬 FuncChat Pro
-- Self-hosted real-time chat application
-- Java, Netty WebSocket, Firebase, AWS
+**Frontend**
+React • TypeScript • JavaScript
 
-🛍️ Product Recommendation System
-- Recommendation engine using KNN
-- Spring Boot, React, PostgreSQL, Redis
+**Databases**
+PostgreSQL • MySQL • Redis • Firebase
+
+**Cloud & Tools**
+AWS • Docker • Git • GitHub
+
+---
+
+## Selected Projects
+
+### ♟️ Chess Platform
+
+Real-time multiplayer chess application featuring matchmaking, ELO ratings, WebSocket communication, JWT authentication, and cloud deployment.
+
+**Stack:** React • Spring Boot • PostgreSQL • AWS
+
+### 💬 FuncChat Pro
+
+Self-hosted team communication platform inspired by Slack with real-time messaging, file sharing, and WebSocket-based architecture.
+
+**Stack:** Java • Netty • Firebase • Docker • AWS
+
+### 🛍️ Product Recommendation System
+
+Recommendation engine using KNN-based similarity matching with caching and full-stack architecture.
+
+**Stack:** Spring Boot • React • PostgreSQL • Redis
+
+---
+
+### Areas of Interest
+
+System Design • Backend Engineering • Distributed Systems • Cloud Computing • Artificial Intelligence
 
 ### Currently Learning
-- System Design
-- Distributed Systems
-- AWS Cloud
 
-📫 Contact
-Email: kmarntin2@gmail.com
-LinkedIn: <your-linkedin>
+Advanced System Design • AWS Architecture • High-Performance Backend Systems
